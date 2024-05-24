@@ -1,0 +1,30 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/acute-kidney-injury-necrosis---secondary.py
+inputModule3:
+  class: File
+  path: python/other-acute-kidney-injury---secondary.py
+inputModule4:
+  class: File
+  path: python/acute-kidney-injury-induced---secondary.py
+inputModule5:
+  class: File
+  path: python/acute-kidney-injury-unspecified---secondary.py
+inputModule6:
+  class: File
+  path: python/acute-kidney-injury-substance---secondary.py
+inputModule7:
+  class: File
+  path: python/acute-kidney-injury---secondary.py
+inputModule8:
+  class: File
+  path: python/renal-acute-kidney-injury---secondary.py
+inputModule9:
+  class: File
+  path: python/tubular-acute-kidney-injury---secondary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
