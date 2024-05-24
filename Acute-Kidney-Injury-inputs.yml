@@ -1,0 +1,33 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/acute-kidney-injury-necrosis---secondary.py
+inputModule3:
+  class: File
+  path: python/other-acute-kidney-injury---secondary.py
+inputModule4:
+  class: File
+  path: python/acute-kidney-injury-induced---secondary.py
+inputModule5:
+  class: File
+  path: python/acute-kidney-injury-unspecified---secondary.py
+inputModule6:
+  class: File
+  path: python/acute-kidney-injury-substance---secondary.py
+inputModule7:
+  class: File
+  path: python/acute-kidney-injury---secondary.py
+inputModule8:
+  class: File
+  path: python/renal-acute-kidney-injury---secondary.py
+inputModule9:
+  class: File
+  path: python/tubular-acute-kidney-injury---secondary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
